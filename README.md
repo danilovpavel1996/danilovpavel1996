@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Pavel Danilov
+- 👀 I'm interested in coding, and automating the boring stuff. Started with excel convertors for work, a few months already study and work with Python.
+- 🌱 Currently working in a  international Online Travel Agency(OTA), Kivork. Im at this job since may 2018.
+- 📫 You can reach me at: danilov.pawlyk37@gmail.com
