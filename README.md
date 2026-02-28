@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Pavel Danilov
-- 👀 I'm interested in coding, and automating the boring stuff. Started with excel convertors for work, a few months already study and work with Python.
-- 🌱 Currently working in an international Online Travel Agency(OTA).
-- 📫 You can reach me at: danilov.pawlyk37@gmail.com
+👋 Hi, I'm Pavel Danilov
+💼 Senior Data Scientist at Orange (since Aug 2025)
+👀 Passionate about Python, automation, and all things Data & AI/ML
+🌱 Started my journey automating workflows in Excel, grew into building data-driven solutions
+📫 Reach me at: danilov.pawlyk37@gmail.com
